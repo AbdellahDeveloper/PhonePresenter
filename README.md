@@ -1,2 +1,2 @@
 # PhonePresenter Beta
-## Available Now For Download in https://phonepresenter.rf.gd
+## Available Now For Download in http://phonepresenter.rf.gd
