@@ -1,2 +1,2 @@
-# PhonePresenter - Coming Soon...
-## Available in Monday 18 December 2023
+# PhonePresenter Beta
+## Available Now For Download in https://phonepresenter.rf.gd
