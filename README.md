@@ -19,14 +19,14 @@ Android Version (Client) :
 
 ## Usage ✍
 
-### Step 1: Create New Windows Session
+### Step 1: Create New Windows Session 💻
 #### Choose a Password And Click Create Session
 ![screenshot](https://github.com/AbdellahDeveloper/PhonePresenter/blob/main/phonePresenterImagePCEmpty.png?raw=true)
 #### Now You are in the Control Page of the Created Session
 ![screenshot](https://github.com/AbdellahDeveloper/PhonePresenter/blob/main/phonePresenterImagePC.png?raw=true)
 
 
-### Step 2: Connect To The Session From Your Phone
+### Step 2: Connect To The Session From Your Phone 📱
 
 #### Select Correct Session ID and Use The Same Password Typed in Windows Version
 And then Click Connect
